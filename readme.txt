@@ -1,4 +1,3 @@
-Git is a distributed version control system.
-Git is free software.
+Learning Python Web
 
-learning Python
+A python webapp tutorial from michaelliao
